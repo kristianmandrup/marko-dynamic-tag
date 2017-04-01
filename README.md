@@ -1,6 +1,8 @@
 marko-dynamic-tag
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/marko-dynamic-tag.svg)](https://greenkeeper.io/)
+
 Installation
 ============
 
